@@ -1,4 +1,4 @@
-# Script for Node.js training on 05.08.2020
+# Script for Node.js training
 
 This file holds all necessary code snippets and will be used as a reference during today's training. It is written in markdown and can easily be compiled into html or pdf. This can be done [On the internet](https://cloudconvert.com/md-to-html) or on your local mashine, using a .md compiler. You might as well use Visual Studio code to get a preview. For that, open this file and press 'CTRL + SHIFT + V'
 
